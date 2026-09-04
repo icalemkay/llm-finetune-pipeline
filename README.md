@@ -195,5 +195,5 @@ training:
 ---
 
 ## License
-
+MIT - built by [Calem Kay](https://github.com/icalemkay)
 MIT - built by [Saleem Khan](https://github.com/isaleemkhan)
